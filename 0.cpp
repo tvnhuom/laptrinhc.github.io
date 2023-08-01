@@ -1,6 +1,6 @@
 /*
-  Sưu tầm bởi @nguyenvanhieuvn
-  Thực hành nhiều bài tập hơn tại https://luyencode.net/
+  https://thaynhuom.edu.vn/ngan-hang-1000-bai-code-c-c/
+  Sưu tầm
 */
 
 #include<stdio.h>
